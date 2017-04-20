@@ -33,7 +33,4 @@ THE SOFTWARE.
         <f:textarea />
     </f:entry>
     <f:dropdownDescriptorSelector title="${%Choice Provider}" field="choiceListProvider" descriptors="${descriptor.enabledChoiceListProviderList}" />
-    <f:entry title="${%Editable}" field="editable">
-        <f:checkbox />
-    </f:entry>
 </j:jelly>
